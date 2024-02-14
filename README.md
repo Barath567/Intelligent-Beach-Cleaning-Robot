@@ -1,3 +1,4 @@
+**Intelligent-Beach-Cleaning-Robot**
 In our final year project, we are developing a prototype intelligent beach cleaning robot with dual mode refuse collection for efficient cleaning. 
 We are implementing advanced object detection for identifying and targeting plastics on the beach. 
 Our robot is equipped with autonomous navigation, utilizing two distinct path planning algorithms for adaptability to various terrains such. 
